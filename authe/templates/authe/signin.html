@@ -1,0 +1,7 @@
+<form action="/authe/log/" method="post">
+	{% csrf_token %}
+	{{ form }}
+	<input type="submit" value="Sign In!">
+</form>
+<p>Signin.html</p>
+<a href="/authe/forgot/">Forgot Password?</a>
