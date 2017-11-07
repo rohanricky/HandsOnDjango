@@ -1,0 +1,3 @@
+# WebDude
+
+Playing with Django
